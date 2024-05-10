@@ -1,8 +1,3 @@
-# Intro-to-Reinforcement-Learning-workshop
-Here's a draft for the README file you can use for your GitHub repository containing the reinforcement learning workshop materials:
-
----
-
 # Reinforcement Learning Workshop by MathWorks
 
 ## Overview
@@ -25,20 +20,13 @@ Participants are expected to have:
 - An understanding of fundamental machine learning concepts.
 
 ## Installation
-To get started with the exercises, clone this repository and open the MATLAB project file. Ensure you have the latest version of MATLAB installed, along with the necessary toolboxes mentioned in the project requirements.
+To get started with the exercises, clone this repository and double click on the .mlproj file from within MATLAB. This will "unzip" the workshop files to the folder you select when prompted. Ensure you have the latest version of MATLAB installed, along with the necessary toolboxes mentioned in the project requirements.
 
 ## Usage
 Follow the instructions in each exercise within the MATLAB project to learn step-by-step. The exercises are structured to build your understanding progressively and apply your knowledge in practical scenarios.
 
-## Contributing
-We welcome contributions from the community to enhance the learning experience or add new features to the exercises. Please read `CONTRIBUTING.md` for guidelines on how to make contributions.
+The repository also contains solutions to the exercises in the "solutions" folder. 
 
-## License
-This project is licensed under the terms of the MIT license.
 
 ## Contact
-For any questions or feedback, please contact [Your Contact Information].
-
----
-
-Feel free to modify any section according to your specific needs or additional details you might want to include!
+For any questions or feedback, please contact hchintak@mathworks.com
